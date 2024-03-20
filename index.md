@@ -6,3 +6,7 @@
 i = 2
 j = i+2
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
